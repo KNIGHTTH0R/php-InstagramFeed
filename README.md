@@ -22,7 +22,7 @@ http://benjaminhughes.co.uk/blog/web/creating-instagram-feed-for-website/
 ### Example Usage
 
 
-```html
+```php
 <?php
 include_once('InstagramFeed.php');
 
