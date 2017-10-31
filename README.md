@@ -11,7 +11,7 @@ Since this class does **not** interact with the official Instagram API, it canno
 
 You can find a live example and some basic styling over at my blog: 
 
-http://benjaminhughes.co.uk/blog/web/creating-instagram-feed-for-website/
+[Creating an Instagram Feed for your website without the API](https://benjihughes.co.uk/blog/creating-instagram-feed-for-website-without-api/)
 
 	
     
